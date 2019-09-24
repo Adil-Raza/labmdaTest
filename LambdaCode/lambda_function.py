@@ -1,4 +1,4 @@
 import json
 
 def lambda_function(event, context):
-    return "hello  world"
+    return "hello  world "
